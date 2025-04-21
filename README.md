@@ -9,8 +9,8 @@ CLEAR, &H2FFF: LOADM"CASS:",,R
 
 Run on MO6 from SD: 
 
-Select BASIC 128 from main menu
-type:
+Select BASIC 128 from main menu and type:
+
 CLEAR, &H3200: LOADM"CASS:",,R 
 
 
