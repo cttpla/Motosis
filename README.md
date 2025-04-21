@@ -24,6 +24,7 @@ press ENTER
 -----------------------------------
 
 Run on TO8: 
+
 Select BASIC 512 from main menu and type:
 
 LOADM"CASS:",,R 
